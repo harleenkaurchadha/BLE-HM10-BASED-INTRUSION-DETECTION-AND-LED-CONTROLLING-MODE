@@ -20,5 +20,8 @@
 <br><br><b>Custom Characteristics page</b><br>
 <img src="https://user-images.githubusercontent.com/23056679/77643495-773c5e80-6f85-11ea-80f4-47773de5076e.PNG" width="300">
 <br><br><b>ON Mode</b><br>
-<img src="https://user-images.githubusercontent.com/23056679/77644300-cc2ca480-6f86-11ea-8438-37f61dee7dee.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/23056679/77644300-cc2ca480-6f86-11ea-8438-37f61dee7dee.jpg" width="300">   <img src="https://user-images.githubusercontent.com/23056679/77644334-d9499380-6f86-11ea-982b-fbd7ab9ea5f1.jpg" width="300">
+<br><br><b>SPY Mode with motion detected</b><br>
+<img src="" width="300">
+<br><br><b>Values sent to arduino</b><br>
 <img src="" width="300">

@@ -22,6 +22,6 @@
 <br><br><b>ON Mode</b><br>
 <img src="https://user-images.githubusercontent.com/23056679/77644300-cc2ca480-6f86-11ea-8438-37f61dee7dee.jpg" width="300">   <img src="https://user-images.githubusercontent.com/23056679/77644334-d9499380-6f86-11ea-982b-fbd7ab9ea5f1.jpg" width="300">
 <br><br><b>SPY Mode with motion detected</b><br>
-<img src="https://user-images.githubusercontent.com/23056679/77644944-e915a780-6f87-11ea-818b-70c80eb13056.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/23056679/77644944-e915a780-6f87-11ea-818b-70c80eb13056.jpg" width="500">
 <br><br><b>Values sent to arduino</b><br>
 <img src="https://user-images.githubusercontent.com/23056679/77644951-eb780180-6f87-11ea-9d14-bb30d5ab2efd.PNG" width="300">

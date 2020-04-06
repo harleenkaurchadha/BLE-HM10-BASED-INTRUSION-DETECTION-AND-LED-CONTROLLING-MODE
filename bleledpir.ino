@@ -6,8 +6,6 @@ String readstring;                                                  //response s
 int ledPin = 13;
 int pirPin = 12;
 int sensorval = 0;
-int pirState = LOW;
-int flag = 0;
 String prevstring = "";
 
 void setup()
